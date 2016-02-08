@@ -3,7 +3,10 @@ layout: page
 title: About the Theme
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
+<<<<<<< HEAD
 comments: true
+=======
+>>>>>>> 97f103eeeb71d318a620af78b40bd4192df224be
 image:
   feature: sample-image-2.jpg
   credit: WeGraphics
